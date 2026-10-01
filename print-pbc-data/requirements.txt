@@ -1,0 +1,11 @@
+requests
+python-dotenv
+requests_ntlm
+pywin32
+pytz
+msal>=1.24.0
+sympy
+urllib3==2.2.2
+requests==2.32.3
+
+botcity-framework-core>=1.2.1,<2.0
